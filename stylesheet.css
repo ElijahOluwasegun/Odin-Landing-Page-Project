@@ -44,7 +44,7 @@ li {
 }
 
 .main_text {
-    padding: 0px 350px 0px 0px;
+    padding: 0px 100px 0px 0px;
     margin: 0px;
     font-size: 48px;
     font-weight: 900;
@@ -52,7 +52,7 @@ li {
 }
 
 .secondary_text {
-    padding: 2px 350px 10px 0px;
+    padding: 2px 50px 10px 0px;
     margin: 0px;
     font-size: 18px;
     color: #e5e7eb;
@@ -60,12 +60,12 @@ li {
 
 button {
     display: flex;
-    width: 15%;
+    width: 25%;
     background-color: #3882F6;
     color: #e5e7eb;
     border: 0px;
     border-radius: 8px;
-    padding: 10px 20px;
+    padding: 10px 10px;
     justify-content: center;
     font-weight: bold;
 }
