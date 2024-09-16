@@ -59,7 +59,15 @@ li {
 }
 
 button {
-    width: 10%;
+    display: flex;
+    width: 15%;
+    background-color: #3882F6;
+    color: #e5e7eb;
+    border: 0px;
+    border-radius: 8px;
+    padding: 10px 20px;
+    justify-content: center;
+    font-weight: bold;
 }
 
 .head_bod_cont {
