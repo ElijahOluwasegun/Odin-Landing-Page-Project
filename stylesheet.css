@@ -1,5 +1,7 @@
 * {
     box-sizing: border-box;
+    padding: 0;
+    margin: 0;
 }
 
 .full_head {
@@ -14,7 +16,7 @@
 
 .header {
     display: flex;
-    padding: 0px 150px;
+    padding: 20px 150px;
     gap: 500px;
 }
 
