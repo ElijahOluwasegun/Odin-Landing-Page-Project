@@ -89,3 +89,29 @@ button {
     color: #e5e7eb;
     font-size: 25px;
 }
+
+.bod_head {
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 900;
+    text-align: center;
+    padding: 25px 0px;
+}
+
+.bod_bod {
+    display: flex;
+    padding: 0px 250px;
+}
+
+.box_in_bod {
+    background-color: white;
+    border: 3px solid #3882F6;
+    width: 20%;
+    height: 150px;
+    border-radius: 10px;
+}
+
+.bod_text {
+    display: flex;
+    flex-direction:column;
+}
