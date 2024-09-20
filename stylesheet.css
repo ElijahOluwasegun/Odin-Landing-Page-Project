@@ -101,6 +101,7 @@ button {
     font-weight: 900;
     text-align: center;
     padding: 25px 0px;
+    margin: 10px 0px;
 }
 
 .bod_bod {
@@ -108,7 +109,7 @@ button {
     flex-direction: row;
     gap: 40px;
     padding: 0px;
-    margin: 0px;
+    margin: 10px 0px 100px 0px;
     justify-content:center;
 }
 
@@ -116,7 +117,6 @@ button {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    flex-wrap: wrap;
     gap: 5px;
     margin: 0px;
     padding: 0px;
@@ -141,36 +141,3 @@ button {
     text-align: center;
 }
 
-/* .box {
-    background-color: white;
-    border: 3px solid #3882F6;
-    width: 130px;
-    height: 130px;
-    border-radius: 10px;
-}
-
-.inner_box {
-    display: flex;
-    justify-content: center;
-    gap: 40px;
-}
-
-.inner_box_text {
-    display: flex;
-    justify-content: center;
-    gap: 40px;
-}
-
-.box_text {
-    display: flex;
-    max-width: 200px;
-    text-align: center;
-    background-color: orange;
-    border: 1px solid black;
-}
-
-.full_box {
-    display: flex;
-    flex-direction: column;
-    flex-wrap: wrap;
-} */
