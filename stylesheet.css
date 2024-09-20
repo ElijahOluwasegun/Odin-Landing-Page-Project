@@ -164,3 +164,10 @@ button {
     font-weight: bolder;
     padding-left: 550px;
 }
+
+.call_to_act {
+    display: flex;
+    justify-content: center;
+    margin: 100px 0px;
+    gap: 10px;
+}
