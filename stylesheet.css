@@ -179,7 +179,7 @@ li {
 
 
 
-p, .inner_call_to_act {
+.inner_text1, .inner_text2 {
     color: white;
 }
 
@@ -205,4 +205,18 @@ p, .inner_call_to_act {
     color: white;
     border: 2px solid white;
     border-radius: 8px;
+}
+
+.footer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #1F2937;
+}
+
+.footer p {
+    flex: 1 1 auto;
+    color: white;
+    padding: 35px 0px;
 }
