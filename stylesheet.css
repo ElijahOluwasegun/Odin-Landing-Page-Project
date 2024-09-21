@@ -63,7 +63,7 @@ li {
     color: #e5e7eb;
 }
 
-button {
+.sign_up {
     display: flex;
     width: 25%;
     background-color: #3882F6;
@@ -168,6 +168,37 @@ button {
 .call_to_act {
     display: flex;
     justify-content: center;
+    align-self: center;
+    align-items: center;
     margin: 100px 0px;
-    gap: 10px;
+    gap: 100px;
+    width: 800px;
+    border-radius: 10px;
+    background-color: #3882F6;
+}
+
+
+
+p, .inner_call_to_act {
+    color: white;
+}
+
+.inner_text1 {
+    font-size: large;
+    font-weight: 900;
+}
+
+.second_sign_up {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 5px;
+    height: 30px;
+    width: 14%;
+    margin: 50px 0px;
+    font-weight: 900;
+    background-color: #3882F6;
+    color: white;
+    border: 2px solid white;
+    border-radius: 8px;
 }
