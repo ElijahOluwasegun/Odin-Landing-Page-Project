@@ -171,9 +171,9 @@ li {
     align-self: center;
     align-items: center;
     margin: 100px 0px;
-    gap: 100px;
-    width: 800px;
-    border-radius: 10px;
+    gap: 150px;
+    width: 850px;
+    border-radius: 6px;
     background-color: #3882F6;
 }
 
@@ -184,8 +184,12 @@ p, .inner_call_to_act {
 }
 
 .inner_text1 {
-    font-size: large;
+    font-size: larger;
     font-weight: 900;
+}
+
+.inner_text2 {
+    font-weight: lighter;
 }
 
 .second_sign_up {
