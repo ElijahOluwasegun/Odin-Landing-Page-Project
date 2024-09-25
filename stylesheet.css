@@ -28,7 +28,7 @@ body {
 .hero {
     font-size: 24px;
     font-weight: 900;
-    color: #F9FAF8;
+    color: #fbff00;
 }
 
 ul {
@@ -40,7 +40,7 @@ ul {
 li {
     list-style-type: none;
     font-size: 18px;
-    color: #E5E7EB;
+    color: #d3ff0e;
 }
 
 .header_bod {
@@ -53,21 +53,21 @@ li {
     margin: 0px;
     font-size: 48px;
     font-weight: 900;
-    color: #F9FAF8;
+    color: #104406;
 }
 
 .secondary_text {
     padding: 2px 50px 10px 0px;
     margin: 0px;
     font-size: 18px;
-    color: #e5e7eb;
+    color: #29661d;
 }
 
 .sign_up {
     display: flex;
     width: 25%;
-    background-color: #3882F6;
-    color: #e5e7eb;
+    background-color: #d3ff0e;
+    color: #000000;
     border: 0px;
     border-radius: 8px;
     padding: 10px 10px;
@@ -84,7 +84,18 @@ li {
     background-color: #6e797c;
 } */
 
-.placeholder {
+/* .placeholder {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 620px;
+    height: 250px;
+    background-color: #6e797c;
+    color: #e5e7eb;
+    font-size: 25px;
+} */
+
+.header_image {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -122,9 +133,17 @@ li {
     padding: 0px;
 }
 
-.box_in_bod {
+/* .box_in_bod {
     background-color: white;
-    border: 3px solid #3882F6;
+    border: 3px solid #d3ff0e;
+    width: 130px;
+    height: 130px;
+    border-radius: 10px;
+    margin: 0px;
+    padding: 0px;
+}
+ */
+.country1 {
     width: 130px;
     height: 130px;
     border-radius: 10px;

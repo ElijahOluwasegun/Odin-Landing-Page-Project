@@ -8,6 +8,7 @@ Thank you, I hope you find my project worth looking into.
 Useful Resources:
 
 1. The Odin Project (https://www.theodinproject.com)
+2. Pexels (https://www.pexels.com/)
 
 Assignment Guide from The Odin Project:
 
@@ -26,3 +27,12 @@ Don’t forget to commit early & often! You can reference the Commit Message les
 5. Do not worry about making your project look nice on a mobile device. We’ll learn that later.
 
 6. When you finish, don’t forget to push it up to GitHub!
+
+Images Used:
+
+Photo by Lagos Food Bank Initiative from Pexels: https://www.pexels.com/photo/a-volunteer-woman-doing-high-five-with-children-8042458/
+Photo by McBarth™ Obeya: https://www.pexels.com/photo/top-view-of-houses-and-building-roofs-3172830/
+Photo by arinda gracious: https://www.pexels.com/photo/vibrant-african-market-stall-with-cultural-goods-28536810/
+Photo by Git Stephen Gitau: https://www.pexels.com/photo/people-holding-hands-1667850/
+Photo by Git Stephen Gitau: https://www.pexels.com/photo/man-sitting-on-boat-2369762/
+Photo by Mo Liban: https://www.pexels.com/photo/a-group-of-friends-playing-football-5648177/
