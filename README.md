@@ -8,7 +8,6 @@ Thank you, I hope you find my project worth looking into.
 Useful Resources:
 
 1. The Odin Project (https://www.theodinproject.com)
-2. Pexels (https://www.pexels.com/)
 
 Assignment Guide from The Odin Project:
 
