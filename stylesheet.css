@@ -215,8 +215,7 @@ li {
     background-color: #1F2937;
 }
 
-.footer p {
-    flex: 1 1 auto;
+.footer .footer_text {
     color: white;
     padding: 35px 0px;
 }
