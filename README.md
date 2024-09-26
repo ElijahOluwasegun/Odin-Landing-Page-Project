@@ -9,6 +9,7 @@ Useful Resources:
 
 1. The Odin Project (https://www.theodinproject.com)
 2. Pexels (https://www.pexels.com/)
+3. Coolors (https://coolors.co/)
 
 Assignment Guide from The Odin Project:
 
